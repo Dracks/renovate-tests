@@ -1,0 +1,3 @@
+name: renovate-test
+dependencies:
+  react: 16.0.0
